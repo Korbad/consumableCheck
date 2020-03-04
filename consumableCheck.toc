@@ -1,0 +1,9 @@
+## Interface: 11302
+## Title: consumableCheck
+## Version: 1
+## Author: Josh
+## Notes: consumableCheck
+## SavedVariablesPerCharacter: isFrameOn, isChatOn
+## DefaultState: Enabled
+
+consumableCheck.lua
